@@ -6,7 +6,5 @@ int main()
 {
 	int a;
 	char b;
-	char c;
-	char d;
 }
 
